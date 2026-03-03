@@ -1,5 +1,8 @@
 # Todo App - 待办事项应用
 
+[![中文](https://img.shields.io/badge/语言-中文-red)](README.md)
+[![English](https://img.shields.io/badge/Language-English-blue)](README_EN.md)
+
 一个简洁优雅的待办事项应用，采用苹果风格设计，支持纯前端本地存储和全栈部署两种模式。
 
 ![版本](https://img.shields.io/badge/version-1.0.0-blue)
