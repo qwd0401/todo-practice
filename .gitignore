@@ -1,0 +1,14 @@
+# Playwright MCP test artifacts
+.playwright-mcp/
+
+# Test screenshots
+test-*.png
+snapshot-*.json
+
+# Node.js
+node_modules/
+package-lock.json
+package.json
+
+# Logs
+*.log
