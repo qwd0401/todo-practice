@@ -1,5 +1,8 @@
 # Todo App
 
+[![中文](https://img.shields.io/badge/语言-中文-red)](README.md)
+[![English](https://img.shields.io/badge/Language-English-blue)](README_EN.md)
+
 A clean and elegant todo application with Apple-style design, supporting both standalone frontend (localStorage) and full-stack deployment modes.
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
